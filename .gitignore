@@ -1,0 +1,223 @@
+# ============================================
+# ARCHIVOS DE CONFIGURACIÓN Y METADATOS
+# ============================================
+
+# Editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# PYTHON - BUILD Y CACHE
+# ============================================
+
+# Python build artifacts & caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+dist/
+build/
+pip-wheel-metadata/
+.Python
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ============================================
+# ENTORNOS VIRTUALES
+# ============================================
+
+# Entornos virtuales genéricos
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Estructura de entornos virtuales
+Include/
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# Entorno virtual específico del proyecto
+proyectos/
+mediapipe/
+
+# ============================================
+# DEPENDENCIAS
+# ============================================
+
+# Node/JS dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+.pnp/
+.pnp.js
+
+# Python dependencies
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ============================================
+# ARCHIVOS TEMPORALES Y LOGS
+# ============================================
+
+# Logs & temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.cache/
+
+# ============================================
+# ARCHIVOS COMPRIMIDOS Y DATASETS
+# ============================================
+
+# Large archives & datasets
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.gz
+*.bz2
+sportimages.zip
+datasets/
+data/
+
+# ============================================
+# IMÁGENES
+# ============================================
+
+# Formatos de imagen
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.tif
+*.gif
+*.svg
+*.psd
+*.ai
+*.ico
+*.webp
+*.heic
+*.heif
+
+# Directorios de imágenes
+sportimages/
+images/
+img/
+imagenes/
+
+# ============================================
+# AUDIO Y VIDEO
+# ============================================
+
+# Audio
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.wma
+*.m4a
+
+# Video
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wmv
+*.m4v
+*.webm
+*.flv
+*.f4v
+*.3gp
+
+# Directorios de videos
+Unidad2/videos/
+videos/
+video/
+
+# ============================================
+# MODELOS DE MACHINE LEARNING
+# ============================================
+
+# Modelos entrenados / checkpoints
+*.h5
+*.hdf5
+*.ckpt
+*.tflite
+*.onnx
+*.pb
+*.pth
+*.pt
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.weights
+*.caffemodel
+*.mlmodel
+
+# Modelos específicos del proyecto
+sport.h5
+entrenamiento1.h5
+Unidad2/modelo_facial_lbph.xml
+clases/modelo_facial_lbph.xml
+modelos/
+models/
+checkpoints/
+
+# TensorBoard
+events.out.tfevents.*
+
+# ============================================
+# JUPYTER NOTEBOOKS
+# ============================================
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ============================================
+# BASES DE DATOS
+# ============================================
+
+*.db
+*.sqlite
+*.sqlite3
+*.sql
