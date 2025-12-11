@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+wordcloud
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+chromadb
