@@ -1,7 +1,0 @@
-General: Invierte una cadena sin usar slicing ([::-1]) ni funciones built-in como reversed(). paso a paso?
-
-BigTech: ¿Para qué sirve el algoritmo de KMP (Knuth–Morris–Pratt) con ejemplos de código?
-
-Socratico: Necesito ayuda con: ¿qué es fibonacci con recursividad?
-
-
