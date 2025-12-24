@@ -198,8 +198,8 @@ sport.h5
 entrenamiento1.h5
 Unidad2/modelo_facial_lbph.xml
 clases/modelo_facial_lbph.xml
-modelos/
-models/
+# modelos/
+# models/
 checkpoints/
 
 # TensorBoard
